@@ -1,0 +1,2 @@
+https://www.statology.org/confusion-matrix-in-r/
+https://www.statology.org/logistic-regression/
